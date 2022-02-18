@@ -5,7 +5,6 @@ const Footer = () => {
   return (
     <div id="footer">
       <div className="container">
-        <p><Link to="" text="" /></p>
       </div>
     </div>
   );
