@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Header from './header';
-//import Footer from './footer';
+import Footer from './footer';
 import Uptime from './uptime';
 
 const App = () => {
